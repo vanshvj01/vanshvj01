@@ -5,7 +5,6 @@ B.Tech Information Technology student (Honors in Cyber Security) at K. J. Somaiy
 - 🔭 Currently building **RadiScan AI**, an uncertainty-aware, explainable deep learning system for chest X-ray interpretation
 - 🌱 Working in Python, JavaScript, PHP and SQL, with Node/Express APIs behind data-heavy front ends
 - 🎯 Open to software engineering internships in Mumbai — full-stack, data/dashboard or applied ML
-- 🏸 Captain of the Somaiya Vidyavihar University badminton team
 
 ### Tech
 
